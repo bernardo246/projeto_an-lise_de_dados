@@ -1,5 +1,5 @@
 # projeto_an-lise_de_dados
-# projeto_an-lise_de_dados
+
 # 📊 Análise de Vendas com Python
 
 Este projeto realiza a análise exploratória de uma base de dados de vendas, utilizando as bibliotecas **Pandas**, **NumPy** e **Plotly Express** para gerar insights visuais sobre o desempenho comercial, categorizado por produtos, marcas, regiões e tempo.
